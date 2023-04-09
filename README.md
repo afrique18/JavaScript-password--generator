@@ -35,5 +35,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ## URL
 <li>GitHub repository: https://github.com/afrique18/JavaScript-password-generator</li>
-<li>Deployed application: </li>
+<li>Deployed application: https://afrique18.github.io/JavaScript-password-generator/</li>
 
