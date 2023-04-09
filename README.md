@@ -1,7 +1,7 @@
 # JavaScript-password--generator
 
 # Description
-Tasked with modifying a starter code to allow eployees to generate random password based on selected criteria. To complete the assignment, I worked on implementing examples from class lectures with little success. I thought by spending a bit more time rewatching class lectures, and modeling the steps in the examples would do, but it still didn't click. I scheduled a tutoring session, but still wasn't able to grab the concept. The assignment is above my level of computational thinking at the moment, but I am committed to getting to that level.
+Tasked with modifying a starter code to allow eployees to generate a random password based on a selected criteria. To complete the assignment, I worked on implementing examples from class lectures with little success. I thought by spending a bit more time rewatching class lectures, and modeling the steps in the examples would do, but it still didn't click. I scheduled a tutoring session, but still wasn't able to grab the concept. The assignment is currently above my level of computational thinking, but I am committed to getting to that level.
 ## User Story
 
 ```
@@ -31,4 +31,9 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Screenshot
-![Alt text](/Users/Chu-Chu/Desktop/workspace/Password-generator/Assets/Screenshot-pwd-gen.png)
+![Alt text](./Assets/Screenshot-pwd-gen.png)
+
+## URL
+<li>GitHub repository: https://github.com/afrique18/JavaScript-password-generator</li>
+<li>Deployed application: </li>
+
