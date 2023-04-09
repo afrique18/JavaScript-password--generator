@@ -31,4 +31,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Screenshot
-![Alt text](./assets/Screenshot-pwd-gen.png)
+![Alt text](/Users/Chu-Chu/Desktop/workspace/Password-generator/Assets/Screenshot-pwd-gen.png)
